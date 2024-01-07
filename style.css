@@ -1,0 +1,81 @@
+body{
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    width: 920px;
+    height: 650px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin-top: 25px
+}
+
+.logo{
+    width: 200px;
+    margin-top: 50px
+}
+
+.title{
+    color: rgb(0, 216, 0);
+    text-align: center;
+    font-size: 24px;
+    margin-top: -8px;
+}
+
+.box{
+    background-color: rgb(0, 216, 0);
+    padding: 10px;
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: auto;
+}
+
+div.monopattino{
+    margin-top: 10px;
+}
+
+input[type="checkbox"]{
+    margin-left: 80px;
+    margin-right: 10px;
+}
+
+.posizione{
+    margin-left: 80px;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.stato{
+    margin-top: -10px;
+}
+
+.carica1{
+    background-color: rgb(235, 183, 100);
+    padding: 12px;
+    border-radius: 5px;
+    margin-right: 600px;
+    margin-top: -10px;
+}
+
+.carica2{
+    background-color: rgb(92, 192, 64);
+    padding: 12px;
+    border-radius: 5px;
+    margin-right: 400px;
+    margin-top: -10px;
+}
+
+.carica3{
+    background-color: rgb(176, 74, 70);
+    padding: 12px;
+    border-radius: 5px;
+    margin-right: 750px;
+    margin-top: -10px;
+}
